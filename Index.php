@@ -10,10 +10,12 @@
 </head>
 <body>
     <div class = "links">
-        <a href="index.php">Index</a>
-        <a href="hallo.php">Hallo</a>
-        <a href="meme.php">Meme's</a>
-        <a href="kloed.php">Kloede</a>
+        <ul>
+            <li><a href="index.php">Index</a></li>
+            <li><a href="hallo.php">Hallo</a></li>           
+            <li><a href="meme.php">Meme's</a></li>
+            <li><a href="kloed.php">Kloede</a></li>           
+        </ul>
     </div>
 </body>
 </html>
