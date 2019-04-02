@@ -9,6 +9,11 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <p> hallo </p>
+    <div class = "links">
+        <a href="index.php">Index</a>
+        <a href="hallo.php">Hallo</a>
+        <a href="meme.php">Meme's</a>
+        <a href="kloed.php">Kloede</a>
+    </div>
 </body>
 </html>
