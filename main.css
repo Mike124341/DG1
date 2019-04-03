@@ -6,7 +6,7 @@
 ul li {
     list-style: none;
     display: inline-block;
-    float: left;
+    float: center;
     line-height: 75px;
 }
 
