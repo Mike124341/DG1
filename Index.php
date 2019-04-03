@@ -9,6 +9,8 @@
     <script src="main.js"></script>
 </head>
 <body>
+    <h1>Welkom</h1>
+    
     <div class = "links">
         <ul>
             <li><a href="index.php">Index</a></li>
@@ -17,5 +19,7 @@
             <li><a href="kloed.php">Kloede</a></li>           
         </ul>
     </div>
+
+    
 </body>
 </html>

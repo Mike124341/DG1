@@ -2,6 +2,11 @@
     background-color: dimgrey;
 
 }
+h1  {
+    color: crimson;
+    text-align: center;
+    float: center;
+}
 
 ul li {
     list-style: none;
