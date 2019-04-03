@@ -21,5 +21,7 @@
         </ul>
     </div>
 
+    <img src="2.png" alt="">
+
 </body>
 </html>
