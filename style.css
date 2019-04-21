@@ -1,6 +1,7 @@
 *{
-    background-color: black;
+    background-image: url("3.jpg");;
     color: white;
+    font-size: 25px;
 }
 p   {
     text-align: left;
@@ -34,4 +35,9 @@ ul li a  {
 ul li a:hover {
     color: crimson
     
+}
+
+h1  {
+    text-align: center;
+    font-size: 40px;
 }
