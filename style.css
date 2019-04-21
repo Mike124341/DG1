@@ -1,0 +1,37 @@
+*{
+    background-color: black;
+    color: white;
+}
+p   {
+    text-align: left;
+}
+nav       {
+    float: left;
+    width: 100%;
+    height: 75px;    
+}
+
+ul  {
+    
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+    line-height: 75px;
+}
+
+ul li a  {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Tahoma, Geneva, sans-serif;
+    color: #daa520;
+    padding: 0 30px;
+    display: block;
+}
+
+ul li a:hover {
+    color: crimson
+    
+}
